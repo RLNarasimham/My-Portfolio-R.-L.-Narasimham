@@ -34,12 +34,12 @@ export const projects: ProjectType[] = [
   },
   {
     id: 3,
-    title: 'Secure Pass – Password Manager App',
-    description: 'Developed a secure password management web application using Express.js, SQLite3, and Tailwind CSS. Implemented session management and CORS for secure authentication, and integrated AES encryption for safe password storage and retrieval.',
+    title: ' Full-Stack Online Chat Application',
+    description: 'Engineered a full-stack real-time chat application with private and group messaging, featuring live updates via Socket.IO, user authentication, MongoDB-based message storage, and a responsive React + Tailwind CSS UI.',
     category: 'web',
-    image: './Secure Pass - Password Manager.jpg',
-    technologies: ['Express.js', 'HTML', 'SQLite3', 'Tailwind CSS','AES Encryption','Javascript'],
+    image: './ Full Stack Chat.jpg',
+    technologies: ['React, Tailwind CSS, Daisy UI, MongoDB, Mongoose, SocketIO,'],
     // liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com/RLNarasimham/SecurePass---Password-Manager',
+    githubUrl: '  ',
   },
 ];
