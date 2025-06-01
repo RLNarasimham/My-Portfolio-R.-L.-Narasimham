@@ -37,7 +37,7 @@ export const projects: ProjectType[] = [
     title: ' Full-Stack Online Chat Application',
     description: 'Engineered a full-stack real-time chat application with private and group messaging, featuring live updates via Socket.IO, user authentication, MongoDB-based message storage, and a responsive React + Tailwind CSS UI.',
     category: 'web',
-    image: './ Full Stack Chat.jpg',
+    image: './Full Stack Chat.jpg',
     technologies: ['React, Tailwind CSS, Daisy UI, MongoDB, Mongoose, SocketIO,'],
     // liveUrl: 'https://example.com',
     githubUrl: '  ',
