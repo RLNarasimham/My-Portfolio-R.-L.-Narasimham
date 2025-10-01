@@ -17,8 +17,8 @@ export const skills: Skill[] = [
     level: 90,
   },
   {
-    name: 'CSS',
-    level: 85,
+    name: 'Tailwind CSS',
+    level: 70,
   },
   {
     name: 'Responsive Design',
@@ -37,12 +37,12 @@ export const skills: Skill[] = [
     level: 85,
   },
   {
-    name: 'JSON Server',
-    level: 85,
+    name: 'Typescript',
+    level: 75,
   },
   {
     name: 'UI/UX Design',
-    level: 85,
+    level: 70,
   },
   {
     name: 'Git',
@@ -51,5 +51,9 @@ export const skills: Skill[] = [
   {
     name: 'MySQL',
     level: 80,
+  },
+  {
+    name: 'Redux',
+    level: 70,
   },
 ];
