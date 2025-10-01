@@ -48,7 +48,7 @@ export const projects: ProjectType[] = [
     description: ' Implemented a reproducible end-to-end ML pipeline (data loading → train-only preprocessing → scaling → model training & evaluation) to run memory-efficient baselines (SGD, LinearSVC, SVM) on large encrypted-traffic datasets.). Established a lightweight interpretability suite (Cohen’s d, point-biserial, model importances) to rank top features and auto-export CSV/Markdown summaries for reporting.',
     category: 'web',
     image: './Full Stack Chat.jpg',
-    technologies: ['Scikit Learn, Numpy, Joblib, OS, Pandas, Matplotlib'],
+    technologies: ['Scikit Learn', 'Numpy', 'Joblib', 'OS', 'Pandas', 'Matplotlib'],
     // liveUrl: 'https://example.com',
     githubUrl: 'https://github.com/RLNarasimham/AI-driven-Security-Analysis-on-Encrypted-Communications-UTP-Malaysia',
   },
