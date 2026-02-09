@@ -14,7 +14,7 @@ export interface ProjectType {
 export const projects: ProjectType[] = [
   {
     id: 1,
-    title: 'Shopify E-Commerce Web App',
+    title: 'Shoplify E-Commerce Web App',
     description: 'Developed and deployed a full-stack e-commerce platform using React (TypeScript), Tailwind CSS, external product APIs, and Node.js and Express, featuring dynamic product listings, secure checkout, and efficient cart management. Integrated Razorpay payment gateway and improved application reliability by debugging, optimizing performance, and designing a responsive UI/UX for smooth cross-device user experience.',
     category: 'web',
     image: './Shopify e commerce website.jpg',
@@ -24,13 +24,13 @@ export const projects: ProjectType[] = [
   },
   {
     id: 2,
-    title: 'AI-Assisted ShowTimeGo Web App',
-    description: 'Built a full-stack movie ticket booking application with AI chatbot, seat selection, TMDB API integration, and JWT authentication using React (TypeScript), Node.js/Express, and Redux for scalable state management. Deployed and optimized a cloud-ready solution with CI/CD and Razorpay integration; enhanced reliability through debugging, performance tuning, and responsive UI/UX design for seamless booking across devices.',
+    title: 'Notemotion Admin Dashboard Web App',
+    description: 'Built a full-stack admin dashboard using React, Node.js, Express, and MongoDB with secure JWT-based authentication, role-based access, and RESTful APIs for managing users and notes. Implemented CRUD operations, search and filtering, admin analytics endpoints, and responsive UI using Tailwind CSS, ensuring seamless frontend–backend integration via Axios.',
     category: 'web',
-    image: './SHOWTIMEGO Movie Ticket Booking app.jpg',
-    technologies: ['React', 'Javascript', 'Typescript', 'Node JS', 'Express', 'Tailwind CSS', 'Gemini API', 'TMDB API'],
+    image: './.jpg',
+    technologies: ['React', 'Javascript', 'Vite', 'Nodemon', 'Node JS', 'Express JS', 'Tailwind CSS', 'MongoDB', 'Axios', 'Lucide-react (for icons)'],
     // liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com/RLNarasimham/SHOWTIMEGO-Movie-Ticket-Booking-App',
+    githubUrl: 'https://frontend-assignment-primetrade-ai.vercel.app',
   },
   {
     id: 3,
