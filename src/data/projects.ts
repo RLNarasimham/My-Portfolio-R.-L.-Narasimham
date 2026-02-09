@@ -27,7 +27,7 @@ export const projects: ProjectType[] = [
     title: 'Notemotion Admin Dashboard Web App',
     description: 'Built a full-stack admin dashboard using React, Node.js, Express, and MongoDB with secure JWT-based authentication, role-based access, and RESTful APIs for managing users and notes. Implemented CRUD operations, search and filtering, admin analytics endpoints, and responsive UI using Tailwind CSS, ensuring seamless frontend–backend integration via Axios.',
     category: 'web',
-    image: './.jpg',
+    image: 'public/Notemotion Web App.jpg',
     technologies: ['React', 'Javascript', 'Vite', 'Nodemon', 'Node JS', 'Express JS', 'Tailwind CSS', 'MongoDB', 'Axios', 'Lucide-react (for icons)'],
     // liveUrl: 'https://example.com',
     githubUrl: 'https://frontend-assignment-primetrade-ai.vercel.app',
