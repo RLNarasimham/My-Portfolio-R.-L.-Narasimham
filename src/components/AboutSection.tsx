@@ -10,7 +10,7 @@ const AboutSection: React.FC = () => {
             About Me
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300">
-            I am an aspiring full stack developer specializing in the MERN stack, currently pursuing a B.Tech in Computer Science at SRM University, AP. With hands-on experience from internships and personal projects, I have built web applications focusing on responsive design, secure backend development, and intuitive user interfaces. My journey so far has strengthened my foundation in modern web technologies and ignited a deep passion for creating scalable and user-centric applications.
+            I am an aspiring Python Backend developer specializing in Django, Django REST Framework (DRF), SQLite 3, and MySQL, a B.Tech Graduate in Computer Science at SRM University, AP. With hands-on experience from internships and personal projects, I have built web applications focusing on responsive design, secure backend development, and intuitive user interfaces. My journey so far has strengthened my foundation in Python Backend technologies and ignited a deep passion for creating scalable and user-centric applications.
           </p>
           <div className="pt-4">
             <a
