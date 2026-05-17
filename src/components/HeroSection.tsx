@@ -66,14 +66,14 @@ const HeroSection: React.FC = () => {
           </h1>
 
           <h3 className="text-2xl sm:text-3xl text-blue-600 dark:text-blue-400 font-semibold mb-4">
-            Aspiring MERN Stack Web Developer
+            Aspiring Python Backend Developer
           </h3>
 
           <p
             ref={subtitleRef}
             className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 mb-8 transition-all duration-700"
           >
-            I build responsive web apps with clean design and seamless functionality using technologies like React, Node.js, MongoDB, Express and Tailwind CSS.
+            I build scalable and efficient backend applications using Python, Django, Django REST Framework, and MySQL, with a focus on API development, and database management.
           </p>
 
           <div
