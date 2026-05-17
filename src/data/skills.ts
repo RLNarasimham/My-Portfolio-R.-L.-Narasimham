@@ -6,54 +6,42 @@ interface Skill {
 export const skills: Skill[] = [
   {
     name: 'Python',
-    level: 55,
+    level: 80,
   },
   {
-    name: 'C++',
+    name: 'Django',
     level: 75,
   },
   {
-    name: 'HTML',
-    level: 90,
+    name: 'Django REST Framework',
+    level: 75,
   },
   {
-    name: 'Tailwind CSS',
-    level: 70,
+    name: 'Bootstrap',
+    level: 65,
   },
   {
     name: 'Responsive Design',
-    level: 85,
+    level: 65,
   },
   {
-    name: 'Javascript',
-    level: 85,
-  },
-  {
-    name: 'React',
-    level: 85,
-  },
-  {
-    name: 'MongoDB',
-    level: 85,
-  },
-  {
-    name: 'Typescript',
-    level: 75,
-  },
-  {
-    name: 'UI/UX Design',
-    level: 70,
+    name: 'HTML',
+    level: 65,
   },
   {
     name: 'Git',
-    level: 85,
+    level: 75,
+  },
+  {
+    name: 'GitHub',
+    level: 75,
   },
   {
     name: 'MySQL',
     level: 80,
   },
   {
-    name: 'Redux',
-    level: 70,
-  },
+    name: 'SQLite 3',
+    level: 80,
+  }
 ];
