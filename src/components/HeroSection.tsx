@@ -47,7 +47,7 @@ const HeroSection: React.FC = () => {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12 text-center md:text-left">
         <div className="flex-shrink-0">
           <img
-            src="./Photo.jpg"
+            src="./Photo.jpeg"
             alt="Lakshmi Narasimham Rallabandi"
             className="w-50 h-50 md:w-56 md:h-56 rounded-full object-cover border-4 border-blue-500 shadow-lg mt-25"
           />
